@@ -6,7 +6,9 @@ I'm Owen, a first-year Electrical Engineering and CS student at Harvard!
 
 ## 🔭 My past projects include:
 - Created student management web application for Lamplight Literacy, a women's literacy organization.
-  - Used React, Next.js, and TypeScript with shadcn/ui and Supabase.
+  - Used React, Next.js, and TypeScript with shadcn/ui, Tailwind, and Supabase.
+- Created web application to allow Harvard students to rate and comment on their dining hall's food.
+  - Used Python, Flask, sqlite3, Tailwind, and OAuth (Auth0)
 - Created and maintain a modern and responsive website and web systems (email, etc.) for ElementLoop, a mineral technology start-up, at [elementloop.co](https://elementloop.co).
   - Used HTML5, CSS3, and JS.
 - Created the original website for AM Batteries, a dry-process lithium-ion battery manufacturing start-up.
