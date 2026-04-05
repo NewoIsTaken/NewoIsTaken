@@ -10,14 +10,18 @@ I'm Owen, a first-year Electrical Engineering and CS student at Harvard!
 - Created and maintain a modern and responsive website and web systems (email, etc.) for ElementLoop, a mineral technology start-up, at [elementloop.co](https://elementloop.co).
   - Used HTML5, CSS3, and JS.
 - Created the original website for AM Batteries, a dry-process lithium-ion battery manufacturing start-up.
-  - Use HTML5, CSS3, and JS.
+  - Used HTML5, CSS3, and JS.
+- Contributed to multiple open-source projects.
+  - Implemented bugfixes for Thunderbird, MultiMC, and other projects in C++ and other languages.
 - Set-up and manage my homelab Ubuntu server (managing SMB shares, network filtering, and HomeAssistant) and Ubiquiti Unifi network (with VLANs and custom firewall rules) with Wireguard VPN remote access.
 
 ## 🌱 My past & current coursework include:
+- CS 50: Introduction to Computer Science
+  - C, Python
+- PS 12a: Mechanical Physics with Statistics
+  - Python, NumPy, Matplotlib
 - MATH 21b: Linear Algebra
 - MATH 21a: Multivarible Calculus
-- CS 50: Introduction to Computer Science
-- PS 12a: Mechanical Physics with Statistics
 
 
 ###### I use Arch btw.
