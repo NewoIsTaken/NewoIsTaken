@@ -11,7 +11,7 @@ I'm Owen, a first-year Electrical Engineering and CS student at Harvard!
   - Used HTML5, CSS3, and JS.
 - Created the original website for AM Batteries, a dry-process lithium-ion battery manufacturing start-up.
   - Use HTML5, CSS3, and JS.
-- Set-up and manage my homelab Ubuntu server and Ubiquiti Unifi network with Wireguard VPN remote access.
+- Set-up and manage my homelab Ubuntu server (managing SMB shares, network filtering, and HomeAssistant) and Ubiquiti Unifi network (with VLANs and custom firewall rules) with Wireguard VPN remote access.
 
 ## 🌱 My past & current coursework include:
 - MATH 21b: Linear Algebra
