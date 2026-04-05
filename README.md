@@ -2,7 +2,7 @@
 
 I'm Owen, a first-year Electrical Engineering and CS student at Harvard!
 
-## 🔭 I’m currently the project manager for a Harvard Tech for Social Good project team, making inventory management system for Breaktime, a local non-profit aimed at helping young adults out of homelessness.
+### 🔭 I’m currently the project manager for a Harvard Tech for Social Good project team, making inventory management system for Breaktime, a local non-profit aimed at helping young adults out of homelessness.
 
 ## My past projects include:
 - Created student management web application for Lamplight Literacy, a women's literacy organization.
