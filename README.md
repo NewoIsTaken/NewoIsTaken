@@ -18,7 +18,8 @@ I'm Owen, a first-year Electrical Engineering and CS student at Harvard!
 - CS 50: Introduction to Computer Science
 - PS 12a: Mechanical Physics with Statistics
 
-I use Arch btw.
+
+###### I use Arch btw.
 
 <!--
 **NewoIsTaken/NewoIsTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
