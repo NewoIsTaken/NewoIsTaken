@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello world 👋
 
 I'm Owen, a first-year Electrical Engineering and CS student at Harvard!
 
